@@ -20,8 +20,8 @@ namespace GoDaddy
         {
             BrowserTitle browserTitle = new BrowserTitle();
             browserTitle.GetTitle();
-            browserTitle.GetUrl();
-            browserTitle.PageSource();
+            browserTitle.GetURL();
+            browserTitle.GetPageSource();
         }
 
         [Test]
